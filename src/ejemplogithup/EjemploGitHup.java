@@ -16,8 +16,10 @@ public class EjemploGitHup {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        // TODO code application logic here
-        // TODO code application logic here
+        
+        int num1;
+        int num2;
+        int num2
     }
     
 }
